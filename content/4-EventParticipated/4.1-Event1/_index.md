@@ -1,126 +1,75 @@
 ---
 title: "Event 1"
-date: 2024-01-01
+date: 2026-05-09
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
 
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+# Summary Report: "AI-Ready Skills & Productivity Hacks Workshop"
 
 ### Event Objectives
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+- Share psychological frameworks to "hack" the human brain, converting cloud engineering studies into a habit-forming routine as engaging as social media.
+- Introduce Automated Prompt Engineering concepts to enhance LLM output quality and optimize token budgeting.
+- Establish core architectural mindsets, critical thinking capabilities, and professional integrity metrics for Freshers navigating the AI landscape.
+- Showcase the Build & Manage Methodology (BMM) integrated with AWS services to construct resilient, decoupled serverless AI applications.
 
-### Speakers
+### Speakers & Timeline
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+1. **Huỳnh Hoàng Long** (0:05 - 21:43) – Self-Development Strategist & Learning Efficiency Optimization Expert
+2. **Nguyễn Tuấn Thịnh** (21:43 - 42:25) – Cloud & AI Solutions Engineer / Creator of the Proptimizer Framework
+3. **Anh Khang** (42:25 - 1:31:43) – Chief Technology Officer / Strategic Enterprise AI Workforce Advisor
 
-### Key Highlights
+---
 
-#### Identifying the drawbacks of legacy application architecture
+### Key Highlights (Key Highlights)
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+#### 1. Gamifying Technical Education (Addicted to Learning Like You're Addicted to Social Media) - Huỳnh Hoàng Long
+- **Brain Chemistry Analysis:** Social media platforms dominate cognitive focus by capitalizing on fast rewards, continuous curiosity triggers, and minimal energetic cost. Conversely, technical education yields delayed outcomes and demands sustained high-energy concentration.
+- **The "Dopamine Gamble" Framework:**
+  * *Leverage Loss Aversion:* Implement continuous streak mechanisms—akin to Duolingo or TikTok—to incentivize and protect daily learning consistency.
+  * *The 2-Minute Rule:* Deconstruct overwhelming study modules into microscopic starting tasks to lower psychological friction and bypass procrastination.
+  * *Immediate Feedback Loops:* Build customized Experience Point (XP) milestones and physical reward systems triggered immediately upon completing granular lab tasks.
+  * *Habit Substitution:* Pivot cognitive behavior from chasing social media entertainment into an autonomous, daily reflex for discovering cloud and GenAI blueprints.
 
-#### Transitioning to modern application architecture – Microservices
+#### 2. Advanced Output Control (Automated Prompt Engineering: Enhancing LLM Quality) - Nguyễn Tuấn Thịnh
+- **The True Cost of Generative Sprawl:** Vague, unguided prompts produce ambiguous, hallucinatory outputs, resulting in severe token wastage, high infrastructure bills, and degraded developer velocity.
+- **The Structural Prompt Formula:** Documented the necessity of enclosing explicit parameters: Role, Task, Context, Output Format, Few-shot Examples, and Strict Constraints.
+- **Advanced Reasoning Architectures:** Explored advanced cognitive engineering logic including Chain-of-Thought (CoT), Self-Consistency validation passes, and Retrieval-Augmented Generation (RAG).
+- **Proptimizer Innovation Showcase:** Demonstrated a production-grade browser extension engineered to automatically optimize prompt payloads, running on a resilient serverless AWS architecture combining: **Amazon CloudFront, Amazon S3, Amazon Cognito, Amazon API Gateway, and Amazon Bedrock**.
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+#### 3. Professional Architecture for the Next Generation (AI-Ready Freshers: Skills & Mindset) - Keynote Speaker
+- **The AI Amplification Vector:** Generative AI does not replace human engineers; it acts as a massive capability amplifier. High-performing engineers leverage AI to achieve exceptional velocity, whereas engineers lacking foundational knowledge expose technical gaps faster.
+- **The Priority of Core Foundations:** In a market saturated with ephemeral frameworks, sustainable engineers must over-index on foundational systems—core networking topologies, computing resource lifecycles, and structural design patterns.
+- **The Non-Outsourceable Capital:** Critical thinking and the cognitive agility to ask the system "Why?" represent high-value human variables that artificial agents cannot replicate.
+- **Engineering Integrity:** Commitment to thoroughly debugging complex edge cases and validating exception paths even when unsupervised, accepting absolute ownership over the final code instead of blindly shifting trust to AI models.
+- **True Experience vs Years of Experience:** Re-pivoted career strategy toward accumulating high-stakes crisis resolution milestones (Experience) over simply counting chronological duration (Years of Experience).
+- **Build & Manage Methodology (BMM):** Introduced an agile software delivery framework that breaks down large codebases into modular Features and Stories, utilizing specialized, sandboxed agents to minimize LLM hallucinations.
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+---
 
-#### Domain-Driven Design (DDD)
+### Key Takeaways (Key Takeaways)
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+#### Technical Governance & System Design
+- **Foundation-First Mindset:** Recognized that generative AI tooling is merely an accelerant. The core architectural layers—such as VPC routing rules, compute rightsizing, and granular IAM boundaries—form the true foundation of sustainable cloud engineering.
+- **Secure Serverless AI Topologies:** Learned from the Proptimizer blueprint how to design secure content delivery edge paths via CloudFront and API Gateway to safely invoke managed foundational models within Amazon Bedrock.
 
-#### Event-Driven Architecture
+#### Workflow Automation & Productivity Enhancements
+- **Programmatic Prompt Construction:** Abandon intuitive, loose text inputs in favor of formal prompt structural templates embedded with strict contextual constraints to improve system generation accuracy.
+- **Disciplined Upskilling Cycles:** Apply loss-aversion streak tracking and the 2-minute rule to maintain consistent momentum when preparing for upcoming advanced AWS certifications.
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+---
 
-#### Compute Evolution
+### Personal Event Experience (Event Experience)
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
+Attending this technical sharing workshop delivered profound practical insights, changing my perspective on skill acquisition and systems engineering inside an AI-driven market:
 
-#### Amazon Q Developer
+- **Scientific Frameworks for Knowledge Scaling:** Huỳnh Hoàng Long's lecture demystified behavioral psychology, providing clear methods to gamify complex cloud concepts and transform technical research into a high-velocity daily routine.
+- **Tangible Cloud-AI Synergy:** Observing the Proptimizer architecture by Nguyễn Tuấn Thịnh provided an exceptional example of orchestrating secure, serverless AWS infrastructures to power modern AI applications.
+- **Calibrating My Professional Trajectory:** The final keynote dismantled abstract industry hype. It reinforced that as an incoming engineer, I must never delegate critical analysis to an LLM, but instead maintain technical integrity by thoroughly understanding every infrastructure component I build.
 
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
-
-### Key Takeaways
-
-#### Design Mindset
-
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
-
-#### Technical Architecture
-
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
-
-#### Modernization Strategy
-
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
-
-### Applying to Work
-
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
-
-### Event Experience
-
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
-
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
-
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
-
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
-
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
-
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
-
-#### Some event photos
-*Add your event photos here*  
-
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+#### Event Gallery
+![Your profile picture](/images/6C7A4659.JPG) ![alt text](/images/6C7A4655.JPG) ![alt text](/images/6C7A4679.JPG)  ![alt text](/images/6C7A4682.JPG)
+> In summary, this event extended beyond standard technical manuals, delivering a powerful roadmap for self-governance, automated developer velocity, and rigorous architectural ownership essential for a hands-on cloud professional.

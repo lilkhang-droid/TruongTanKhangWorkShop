@@ -1,58 +1,40 @@
 ---
 title: "Worklog Tuần 6"
-date: 2024-01-01
-weight: 1
+date: 2026-05-25
+weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+  
 
 
 ### Mục tiêu tuần 6:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Nghiên cứu chuyên sâu về các giải pháp mở rộng hệ thống (Auto Scaling, ELB), giám sát (CloudWatch, CloudTrail) và bảo mật tầng mạng (Security Groups, NACL).
+* Tiếp cận tư duy Tự động hóa hạ tầng (IaC) thông qua CloudFormation và triển khai nhanh với Elastic Beanstalk.
+* Thực hành tích hợp chuỗi dịch vụ và họp nhóm tổng kết, đánh giá tiến độ chặng đường học tập.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Ôn tập kiến thức về các dịch vụ Compute và Storage trên AWS <br> - Tìm hiểu chuyên sâu hơn về Amazon EC2, Auto Scaling và Elastic Load Balancer (ELB) để xây dựng hệ thống có độ sẵn sàng cao <br> - **Thực hành:** Triển khai EC2 kết hợp Load Balancer để mô phỏng một hệ thống Web Application cơ bản | 05/25/2026   | 05/25/2026      |    |
+| 3   | - Học tập về dịch vụ Monitoring và Logging trên AWS <br> - Tìm hiểu về Amazon CloudWatch, AWS CloudTrail và các công cụ giám sát tài nguyên đám mây <br> - **Thực hành:** Theo dõi hiệu năng EC2, cấu hình các cảnh báo (Alarms) và ghi nhận log hoạt động của hệ thống | 05/26/2026   | 05/26/2026      | [AWS Study Group](https://www.youtube.com/watch?v=NZZRBfCJ2AY&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=224)   |
+| 4   | - Nghiên cứu sâu về các giải pháp bảo mật trên AWS <br> - Phân tích chi tiết AWS Security Groups, Network ACLs (NACL) và các nguyên tắc bảo mật hệ thống Cloud bài bản <br> - **Thực hành:** Cấu hình quy tắc kiểm soát truy cập và kiểm tra khả năng bảo mật cho hệ thống đã triển khai | 05/27/2026   | 05/27/2026      |    |
+| 5   | - Học tập về dịch vụ triển khai ứng dụng và quản lý tài nguyên tự động trên AWS <br> - Tìm hiểu cơ bản về AWS Elastic Beanstalk và AWS CloudFormation (Infrastructure as Code) <br> - **Thực hành:** Triển khai ứng dụng đơn giản bằng Elastic Beanstalk và tìm hiểu cách tự động hóa hạ tầng qua template CloudFormation | 05/28/2026   | 05/28/2026      |    |
+| 6   | - Tổng hợp lại toàn bộ khối lượng kiến thức đã học trong tuần 6 <br> - Xem lại các mô hình lab đã thực hành về EC2, Monitoring, Security và Deployment trên AWS <br> - Họp nhóm trực tuyến (Online): Đánh giá tiến độ học tập cá nhân, chia sẻ kinh nghiệm thực hành và định hướng các nội dung cần tiếp tục nghiên cứu | 05/29/2026   | 05/29/2026      | Tài liệu Lab cá nhân / Group Meeting |
 
 
 ### Kết quả đạt được tuần 6:
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* **Thiết kế hệ thống có tính sẵn sàng cao (High Availability):**
+  * Nắm vững cơ chế vận hành của Elastic Load Balancer (ELB) và Auto Scaling trong việc tự động điều phối lưu lượng và co giãn tài nguyên theo tải thực tế. Triển khai thành công mô hình Web App cơ bản có khả năng cân bằng tải.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* **Năng lực Giám sát & Quản lý Log:**
+  * Hiểu rõ sự khác biệt và phối hợp hiệu quả giữa Amazon CloudWatch (giám sát hiệu năng, chỉ số) và CloudTrail (ghi log vết hoạt động, kiểm toán). Biết cách thiết lập các ngưỡng cảnh báo tự động để chủ động ứng phó khi hệ thống gặp sự cố.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* **Bảo mật tầng mạng chuyên sâu:**
+  * Phân biệt rõ ràng cơ chế hoạt động mang tính trạng thái (Stateful) của Security Groups ở cấp độ Instance và phi trạng thái (Stateless) của Network ACLs ở cấp độ Subnet. Thiết lập thành công tường lửa đa lớp vững chắc bảo vệ tài nguyên đám mây.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* **Tiếp cận Tự động hóa hạ tầng (IaC) & Họp nhóm:**
+  * Bước đầu làm quen với tư duy quản lý hạ tầng bằng mã (Code) thông qua cấu trúc của AWS CloudFormation và biết cách dùng Elastic Beanstalk để giảm thiểu thời gian đóng gói, triển khai ứng dụng.
+  * Duy trì hoạt động họp nhóm hiệu quả, giải quyết các vướng mắc kỹ thuật chung và thống nhất được lộ trình tối ưu cho giai đoạn nghiên cứu kế tiếp.

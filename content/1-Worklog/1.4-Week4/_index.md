@@ -1,57 +1,35 @@
 ---
 title: "Week 4 Worklog"
-date: 2024-01-01
-weight: 1
+date: 2026-05-11
+weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
-
+  
 
 ### Week 4 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Systematically review the 5 foundational AWS modules to solidify the core knowledge required for the AWS Certified Cloud Practitioner (CLF-C02) exam.
+* Gain in-depth knowledge of advanced Cloud Networking and secure network infrastructure design.
+* Conduct hands-on practices on VPC peering/endpoints and collaborate via group meetings to evaluate progress and select capstone project ideas.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
+| 2   | - Review and systematize the 5 foundational AWS modules, including: <br>&emsp; + **Cloud Foundations:** Basic concepts, Service models, AWS Global Infrastructure, Shared Responsibility Model <br>&emsp; + **Core AWS Services:** Compute, Storage, Database, Networking <br>&emsp; + **Architecture & Well-Architected:** Design concepts, AWS Well-Architected Framework, Architecture types <br>&emsp; + **Security, IAM & Governance:** IAM, Security & Monitoring, Governance & Compliance <br>&emsp; + **Pricing, Billing & Cost Optimization:** Pricing Models, Billing tools, Cost Optimization <br> - Master core knowledge tailored for the **AWS Certified Cloud Practitioner** exam | 05/11/2026   | 05/11/2026      |    |
+| 5   | - Study Module 6: Advanced AWS Networking knowledge <br> - Research advanced topics: Advanced VPC, Inter-VPC connectivity (VPC Peering/Transit Gateway), Private connectivity to AWS services without Internet (VPC Endpoints), DNS & Global Networking (Route 53), and Hybrid Connectivity <br> - **Module 6 Hands-on Practice:** Conduct dedicated labs to understand the workflow and implementation of multi-VPC routing and AWS service integration | 05/14/2026   | 05/14/2026      |    |
+| 7   | - Consolidate acquired knowledge, review, and optimize deployment models based on personal lab execution <br> - Conduct an online group meeting: <br>&emsp; + Review and synchronize the learning progress of all group members <br>&emsp; + Analyze, evaluate, and select feasible project ideas to implement AWS cloud services | 05/16/2026   | 05/16/2026      | Personal Lab Materials / Group Meeting |
 
 
 ### Week 4 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **AWS Cloud Practitioner Readiness:**
+  * Successfully consolidated foundational concepts stretching from the Shared Responsibility Model and global infrastructure to cost optimization metrics and the Well-Architected Framework. Fully mastered the core pillars required for the practitioner certification exam.
 
-* Successfully created and configured an AWS Free Tier account.
+* **Advanced Networking Knowledge & Competency:**
+  * Acquired a robust understanding of building scalable networks on AWS, including managing traffic routes between multiple VPCs, securing data transfer entirely off the public internet via VPC Endpoints, and hybrid network architectures.
+  * Successfully completed Module 6 practical labs: Actually provisioned interconnected VPC topologies, gaining a deep understanding of subnetting, Route Tables, and secure communication flows across AWS services.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* **Team Collaboration & Project Mapping:**
+  * Successfully organized the weekly online group meeting, accurately assessing team progress and aligning goals.
+  * Critically evaluated various practical use cases and reached a group consensus on selecting the most optimal project idea to implement and showcase AWS Cloud architectures.

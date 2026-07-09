@@ -1,44 +1,31 @@
 ---
-title: "Events Participated"
-date: 2024-01-01
+title: "Participated Events"
+date: 2026-07-07
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** for your report, including this warning.
-{{% /notice %}}
 
-> In this section, you should list and describe in detail the events you have participated in during your internship or work experience.  
-> 
-> Each event should be presented in the format Event 1, Event 2, Event 3…, along with the following details:
-> * Event name
-> * Date and time
-> * Location (if applicable)
-> * Your role in the event (attendee, event support, speaker, etc.)
-> * A brief description of the event’s content and main activities
-> * Outcomes or value gained (lessons learned, new skills, contribution to the team/project)
-> * This listing helps demonstrate your actual participation as well as the soft skills and experience you have gained from each event.
 
-During my internship, I participated in two events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
+> In this section, I list and describe in detail the tech workshops and professional growth events that I attended during my internship period. Each event provided unique practical insights, reinforcing both my engineering mindset and professional capabilities.
 
-### [Event 1](4.1-Event1/)  
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
+Throughout my internship journey, I had the privilege of participating in 2 major events. Each event was an unforgettable milestone that provided immense knowledge, valuable networking opportunities with industry mentors, and inspiring learning experiences.
 
-&emsp;**Date & Time:** 09:00, August 13, 2025  
+### [Event 1](4.1-event1/)
+* **Event Name:** AI-Ready Skills & Productivity Hacks Workshop
+* **Time:** 09:00, May 09, 2026
+* **Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+* **Role:** Attendee
+* **Brief Description:** An intensive workshop covering cognitive productivity frameworks (turning technical study into a structured habit), Automated Prompt Engineering driven by serverless AWS architectures, and strategic career alignment (critical thinking, engineering integrity) for Freshers in the AI era.
+* **Key Takeaways:** Mastered structural prompt formulation metrics; analyzed a production-grade secure Serverless AI blueprint (CloudFront, API Gateway, Bedrock) via the Proptimizer framework; and recognized the critical necessity of over-indexing on foundational infrastructure over ephemeral AI tools.
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
-
-&emsp;**Role:** Attendee  
-
----
-
-### [Event 2](4.2-Event2/)  
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
-
-&emsp;**Date & Time:** 09:00, August 13, 2025  
-
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
-
-&emsp;**Role:** Attendee  
+### [Event 2](4.2-event2/)
+* **Event Name:** Tech Innovation & Soft Skills Integration Day
+* **Time:** 09:00, May 30, 2026
+* **Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+* **Role:** Attendee
+* **Brief Description:** A unique hybrid event bridging professional soft skills (dismantling procrastination, building technical confidence), digital cultural initiatives (Tử Vi Đại Việt), gamified cloud learning paths (AWS Cloud Quest), and technical risk assessments derived from agile Hackathon projects.
+* **Key Takeaways:** 
+  * *Soft Skills Domain:* Acquired time-governance frameworks to overcome procrastination traps and developed the communication agility required to present and defend system designs.
+  * *Technical Domain:* Adopted simulation-driven training pathways via AWS Cloud Quest; analyzed optimized MVP deployment templates from high-velocity Hackathon solutions (The Ballers, Vortex); and internalized essential technical governance regarding "The Hidden Cost of a Simple Feature" to mitigate infrastructure cost sprawl.

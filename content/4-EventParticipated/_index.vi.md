@@ -1,46 +1,31 @@
 ---
-title: "Các events đã tham gia"
-date: 2024-01-01
+title: "Các sự kiện đã tham gia"
+date: 2026-07-07
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
-> Trong phần này, các bạn cần liệt kê và mô tả chi tiết các sự kiện (event) mà mình đã tham gia trong suốt quá trình thực tập hoặc làm việc. 
-> 
-> Mỗi sự kiện nên được trình bày theo định dạng Event 1, Event 2, Event 3…, kèm theo các thông tin:
-> * Tên sự kiện
-> * Thời gian tổ chức
-> * Địa điểm (nếu có)
-> * Vai trò của bạn trong sự kiện (người tham dự, hỗ trợ tổ chức, diễn giả, v.v.)
-> * Mô tả ngắn gọn nội dung và hoạt động chính trong sự kiện
-> * Kết quả hoặc giá trị đạt được (bài học, kỹ năng mới, đóng góp cho nhóm/dự án)
-> * Việc liệt kê này giúp thể hiện rõ sự tham gia thực tế của bạn, cũng như các kỹ năng mềm và kinh nghiệm bạn đã tích lũy qua từng sự kiện.
 
 
-Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
+> Trong phần này, em liệt kê và mô tả chi tiết các sự kiện (events) công nghệ và kỹ năng phát triển bản thân đã tham gia trong suốt quá trình thực tập. Mỗi sự kiện mang lại những góc nhìn thực tế, giúp củng cố tư duy kỹ thuật và định hình tác phong làm việc chuyên nghiệp.
 
-### [Event 1](4.1-Event1/)
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
+Trong quá trình thực tập, em đã vinh dự tham gia 2 sự kiện lớn có sự phối hợp chia sẻ từ các chuyên gia công nghệ. Mỗi event đều là một trải nghiệm đáng nhớ, mang lại khối lượng kiến thức bổ ích, cơ hội giao lưu cùng các anh chị đi trước cũng như những khoảnh khắc học hỏi tuyệt vời.
 
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
+### [Event 1](4.1-event1/)
+* **Tên sự kiện:** AI-Ready Skills & Productivity Hacks Workshop
+* **Thời gian:** 09:00 ngày 09/05/2026
+* **Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+* **Vai trò trong sự kiện:** Người tham dự
+* **Mô tả ngắn gọn:** Hội thảo chuyên sâu về kỹ năng tự quản trị hiệu suất (biến việc học công nghệ thành thói quen kỷ luật), kỹ thuật tối ưu hóa câu lệnh AI (Automated Prompt Engineering) thông qua kiến trúc Serverless trên AWS, và định hướng hành trang thực chiến (tư duy phản biện, sự liêm chính) cho Fresher trong kỷ nguyên AI.
+* **Giá trị đạt được:** Nắm vững công thức xây dựng Prompt tiêu chuẩn; học hỏi mô hình kiến trúc Serverless AI an toàn (CloudFront, API Gateway, Bedrock) từ dự án Proptimizer; và định hình rõ tầm quan trọng của kiến trúc nền tảng (Foundation) thay vì phụ thuộc hoàn toàn vào công cụ.
 
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
-
-&emsp;**Vai trò trong sự kiện:** Người tham dự 
-
-
-
-### [Event 2](4.2-Event2/)
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
-
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
-
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
-
-&emsp;**Vai trò trong sự kiện:** Người tham dự 
-
+### [Event 2](4.2-event2/)
+* **Tên sự kiện:** Tech Innovation & Soft Skills Integration Day
+* **Thời gian:** 09:00 ngày 30/05/2026
+* **Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+* **Vai trò trong sự kiện:** Người tham dự
+* **Mô tả ngắn gọn:** Sự kiện kết hợp giữa phát triển năng lực cá nhân (vượt qua tảng băng chìm trì hoãn, xây dựng sự tự tin kỹ thuật), ứng dụng công nghệ số hóa văn hóa (Tử Vi Đại Việt), game hóa lộ trình học Cloud (AWS Cloud Quest) và phân tích rủi ro hạ tầng từ các dự án Hackathon thực chiến.
+* **Giá trị đạt được:** 
+  * *Về kỹ năng mềm:* Tiếp thu phương pháp quản lý thời gian để loại bỏ sự trì hoãn và xây dựng sự tự tin khi thuyết trình giải pháp kiến trúc.
+  * *Về kỹ thuật:* Biết cách áp dụng AWS Cloud Quest vào lộ trình tự học; hiểu cách tối ưu MVP từ các dự án Hackathon (The Ballers, Vortex); và đặc biệt là nâng cao tư duy quản trị rủi ro hạ tầng để phòng ngừa kịch bản phình to chi phí từ "Chi phí ẩn của một tính năng đơn giản".

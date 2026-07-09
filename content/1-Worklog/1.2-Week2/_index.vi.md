@@ -1,59 +1,39 @@
 ---
 title: "Worklog Tuần 2"
-date: 2024-01-01
-weight: 1
+date: 2026-04-25
+weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+ 
 
 
 ### Mục tiêu tuần 2:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Củng cố và nắm vững các kiến thức cốt lõi của Module 1 (EC2, S3, IAM).
+* Hiểu sâu về kiến trúc Cloud, các mô hình dịch vụ (IaaS, PaaS, SaaS).
+* Làm chủ dịch vụ Quản lý định danh và truy cập (AWS IAM), thực hành phân quyền và bảo mật tài nguyên đám mây.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 7   | - Ôn tập lại kiến thức Module 1 <br> - Củng cố các dịch vụ cơ bản của AWS (EC2, S3, IAM) | 25/04/2026   | 25/04/2026      |      |
+| 2   | - Bắt đầu học Module 2 của chương trình FCAJ <br> - Tìm hiểu về kiến trúc Cloud và mô hình triển khai (IaaS, PaaS, SaaS) | 27/04/2026   | 27/04/2026      | [AWS Study Group](https://youtu.be/69iKhwI7k2Y?si=slQzNBCkBB-QqUT2)     |
+| 4   | - Học chuyên sâu về IAM (Identity and Access Management) <br> - **Thực hành:** <br>&emsp; + Khởi tạo tài khoản IAM Users <br>&emsp; + Tạo nhóm (Groups), phân vai trò (Roles) <br>&emsp; + Thiết lập chính sách phân quyền truy cập (Policies) | 29/04/2026   | 29/04/2026      |      |
+| 6   | - Tổng kết kiến thức Module 2 <br> - Đánh giá tiến độ học tập và lên kế hoạch cho tuần 3 | 01/05/2026   | 01/05/2026      | |
 
 
 ### Kết quả đạt được tuần 2:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Hệ thống hóa kiến thức nền tảng:**
+  * Hoàn thành ôn tập và hệ thống hóa toàn bộ kiến thức nâng cao của Module 1; làm chủ các thao tác cốt lõi trên các dịch vụ EC2, S3 và cấu hình bảo mật cơ bản.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* **Kiến trúc Cloud & Mô hình dịch vụ:**
+  * Hiểu sâu về kiến trúc đám mây tổng quan và phân biệt rõ ràng bản chất, cách áp dụng của các mô hình dịch vụ phổ biến: **IaaS** (Cơ sở hạ tầng như một dịch vụ), **PaaS** (Nền tảng như một dịch vụ), và **SaaS** (Phần mềm như một dịch vụ).
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* **Thực hành Quản trị và Bảo mật với AWS IAM:**
+  * Hoàn thành xuất sắc nội dung học tập và bài Lab chuyên sâu về **AWS IAM** (Identity and Access Management).
+  * Thành thạo kỹ năng quản trị phân quyền: Tự tay triển khai tạo IAM User, thiết lập Roles, quản lý Nhóm người dùng và gán Policies một cách chính xác theo nguyên tắc đặc quyền tối thiểu (Least Privilege).
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* **Đánh giá & Định hướng:**
+  * Đánh giá lại toàn bộ tiến độ tiếp thu của bản thân sau khi khép lại Module 2, tối ưu hóa phương pháp học và lên lịch trình chi tiết cho các mục tiêu công nghệ trong tuần tới.
