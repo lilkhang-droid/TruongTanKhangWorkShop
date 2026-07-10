@@ -12,7 +12,7 @@ This section encapsulates my entire learning matrix, research journey, and pract
 
 ### Methodology & Execution
 
-The curriculum was intensively executed over a **10-week duration** (approximately 3 months) utilizing a blend of modern technical workflows:
+The curriculum was intensively executed over a **12-week duration** (approximately 3 months) utilizing a blend of modern technical workflows:
 * **Theoretical Foundations:** Reviewing official AWS whitepapers and FCAJ structured courseware to master core tenets from baseline cloud concepts to sophisticated system designs.
 * **Hands-on Lab Execution:** Directly provisioning, configuring, and tuning cloud resource topologies using the AWS Management Console and AWS CLI environment.
 * **High-Velocity Team Collaboration:** Participating in weekly online group syncs to benchmark individual progress, troubleshoot architectural blockers, and collaboratively design production-grade cloud solution blueprints.
@@ -21,7 +21,7 @@ The curriculum was intensively executed over a **10-week duration** (approximate
 
 ### Weekly Roadmap Timeline
 
-Below is the chronological breakdown of the tasks performed and core milestones reached throughout the 11-week internship program:
+Below is the chronological breakdown of the tasks performed and core milestones reached throughout the 12-week internship program:
 
 * **Week 1:** [Getting familiar with AWS, provisioning Free Tier accounts, and configuring the AWS CLI toolkit](1.1-week1/)
 * **Week 2:** [Consolidating Module 1 primitives and deep-diving into AWS Identity and Access Management (IAM) security policies](1.2-week2/)
@@ -33,3 +33,5 @@ Below is the chronological breakdown of the tasks performed and core milestones 
 * **Week 8:** [Architecting corporate Three-Tier workloads, micro-packaging applications via Containers (Docker, ECS), and constructing automated CI/CD pipelines](1.8-week8/)
 * **Week 9:** [Executing the full-scale deployment of a live Web Application on AWS with auto-scaling metrics and live traffic routing](1.9-week9/)
 * **Week 10:** [Hardening system security configurations, optimizing S3 object management, establishing Disaster Recovery plans, and diagnosing bottlenecks](1.10-week10/)
+* **Week 11:** [Finalizing technical cloud blueprints, implementing Infrastructure as Code (IaC) via CloudFormation, and managing large-scale clusters with Amazon EKS](1.11-week11/)
+* **Week 12:** [Deploying production-ready applications, conducting functional/performance/security testing, and compiling final internship reports](1.12-week12/)

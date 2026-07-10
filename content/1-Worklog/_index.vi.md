@@ -12,7 +12,7 @@ Trang này ghi lại toàn bộ quá trình học tập, nghiên cứu và thự
 
 ### Phương pháp hoàn thành
 
-Lộ trình học tập và làm việc được triển khai xuyên suốt **10 tuần** (khoảng gần 3 tháng) thông qua sự kết hợp chặt chẽ giữa các phương phá10
+Lộ trình học tập và làm việc được triển khai xuyên suốt **12 tuần** (khoảng 3 tháng) thông qua sự kết hợp chặt chẽ giữa các phương pháp:
 * **Học tập lý thuyết:** Nghiên cứu tài liệu chính thống của AWS và các bài giảng thuộc chương trình FCAJ để nắm vững từ nền tảng Cloud đến các kiến trúc chuyên sâu.
 * **Thực hành thực tế (Hands-on Labs):** Trực tiếp cấu hình, triển khai và tối ưu hóa hạ tầng trên AWS Management Console và AWS CLI.
 * **Làm việc nhóm (Team Collaboration):** Tổ chức các buổi họp nhóm trực tuyến định kỳ hàng tuần để đồng bộ tiến độ, tháo gỡ khó khăn kỹ thuật và cùng nhau thiết kế, phản biện các mô hình kiến trúc dự án thực tế.
@@ -21,7 +21,7 @@ Lộ trình học tập và làm việc được triển khai xuyên suốt **10
 
 ### Lộ trình chi tiết qua các tuần
 
-Dưới đây là tóm tắt nội dung công việc và các cột mốc đã triển khai trong suốt 11 tuần của chương trình:
+Dưới đây là tóm tắt nội dung công việc và các cột mốc đã triển khai trong suốt 12 tuần của chương trình:
 
 * **Tuần 1:** [Làm quen với AWS, cấu hình tài khoản Free Tier và cài đặt bộ công cụ AWS CLI](1.1-week1/)
 * **Tuần 2:** [Ôn tập Module 1 và nghiên cứu sâu về Quản lý định danh & truy cập (AWS IAM)](1.2-week2/)
@@ -33,3 +33,5 @@ Dưới đây là tóm tắt nội dung công việc và các cột mốc đã t
 * **Tuần 8:** [Thiết kế kiến trúc ứng dụng nhiều tầng (Three-Tier), làm quen với Container hóa (Docker, ECS) và tự động hóa quy trình CI/CD](1.8-week8/)
 * **Tuần 9:** [Trực tiếp triển khai hệ thống Web Application hoàn chỉnh trên AWS, cấu hình co giãn tự động và giám sát hiệu năng thực tế](1.9-week9/)
 * **Tuần 10:** [Tối ưu hóa bảo mật hệ thống, cấu hình nâng cao trên S3, thiết lập cơ chế sao lưu khôi phục (Disaster Recovery) và đánh giá hiệu năng ứng dụng](1.10-week10/)
+* **Tuần 11:** [Hoàn thiện tài liệu kiến trúc hệ thống, tự động hóa hạ tầng bằng mã (CloudFormation) và điều phối Container nâng cao với Amazon EKS](1.11-week11/)
+* **Tuần 12:** [Triển khai phiên bản hoàn chỉnh ứng dụng, kiểm thử toàn diện hiệu năng/bảo mật và đóng gói tài liệu tổng kết thực tập](1.12-week12/)
