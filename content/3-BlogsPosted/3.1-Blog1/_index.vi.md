@@ -27,6 +27,6 @@ Các điểm chính cần nắm:
 
 Tính năng này đặc biệt hữu ích vì nó giới thiệu một giải pháp thực chiến giúp biến quy trình dịch chuyển database (migration) phức tạp và rủi ro từ Amazon RDS sang Aurora thành các bước tự động qua ngôn ngữ tự nhiên; công cụ AI này không chỉ giúp tối thiểu hóa downtime xuống còn vài chục giây mà còn đảm bảo an toàn kỹ thuật nhờ khả năng tự động check lỗi tương thích (binlog, InnoDB) dựa trên các bộ quy chuẩn (best-practices) của chuyên gia AWS.
 
-![](/images/blog1.png)
+![](images/blog1.png)
 
 Link bài viết: <https://www.facebook.com/groups/awsstudygroupfcj/permalink/2208778813220412/>

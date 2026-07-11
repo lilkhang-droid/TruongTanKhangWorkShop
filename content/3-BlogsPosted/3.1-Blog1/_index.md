@@ -26,6 +26,6 @@ Key Takeaways:
 
 This feature is exceptionally valuable because it delivers a production-ready solution that transforms complex, high-risk database migration workflows from Amazon RDS to Aurora into automated actions controlled via natural language. This AI-driven assistant not only minimizes application downtime to mere seconds but also guarantees engineering safety by autonomously checking compatibility rules (such as binlog setup and InnoDB engines) against vetted AWS best-practice architectures.
 
-![](/images/blog1.png)
+![image](/images/blog1.png)
 
 Post Link: <https://www.facebook.com/groups/awsstudygroupfcj/permalink/2208778813220412/>
