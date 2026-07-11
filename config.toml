@@ -1,4 +1,4 @@
-baseURL = "https://TruongTanKhang.awsfcaj.com/"
+baseURL = "https://lilkhang-droid.github.io/TruongTanKhangWorkShop/"
 relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "en"
